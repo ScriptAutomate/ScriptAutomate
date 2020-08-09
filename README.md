@@ -1,4 +1,4 @@
-# Hi, I'm Derek 👋 :shipit:
+# Hi, I'm Derek 👋
 
 I've been a systems engineer, devops engineer, and all-around automation toolmaker. Now I'm applying what I've learned to the world of documentation, where I'm passionate about making open-source more accessible, creating technology to empower contributors, building community, and making the [Docs as Code](https://www.docslikecode.com/) approach a smooth experience. Some technologies I enjoy working with include PowerShell, Python, Sphinx, Linux, Kubernets / Docker, and Amazon Web Services (AWS).
 
