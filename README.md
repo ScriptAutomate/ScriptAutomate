@@ -2,7 +2,7 @@
 
 I write and automate the docs as a Senior Technical Writer at [VMware](https://www.vmware.com/), working on [**Salt**](https://github.com/saltstack/salt) and other interesting projects.
 
-I've been a systems engineer, devops engineer, and all-around automation toolmaker. Now I'm applying what I've learned to the world of documentation, where I'm passionate about making open source more accessible, creating technology to empower contributors, and making the [Docs as Code](https://www.writethedocs.org/guide/docs-as-code/) approach a smooth experience. Some technologies I enjoy working with include SaltStack, PowerShell, Python, Sphinx, Linux, Kubernetes / Docker, and Amazon Web Services (AWS).
+I've been a systems engineer, devops engineer, and all-around automation toolmaker. Now I'm applying what I've learned to the world of documentation, where I'm passionate about making open source more accessible, creating technology to empower contributors, and making the [Docs as Code](https://www.writethedocs.org/guide/docs-as-code/) approach a smooth experience. Some technologies I enjoy working with include PowerShell, Python, Sphinx, Linux, Kubernetes / Docker, and Amazon Web Services (AWS).
 
 [![ScriptAutomate's github stats](https://github-readme-stats.vercel.app/api?username=ScriptAutomate&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
         
