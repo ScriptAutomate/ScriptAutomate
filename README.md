@@ -1,8 +1,8 @@
 # Hi, I'm Derek 👋
 
-I write docs and automate all the things as a Dendron Evangelist 🌱 at [Dendron](https://dendron.so/), helping people to document all the things and make use of Creative Commons licensed docs!
+I write docs and automate all the things!
 
-I've been a systems engineer, DevOps engineer, and all-around automation toolmaker. Now I'm applying what I've learned to the world of documentation, where I'm passionate about making open source more accessible, creating technology to empower contributors, and making the [Docs as Code](https://www.writethedocs.org/guide/docs-as-code/) approach a smoother experience. Some technologies I enjoy working with (outside of Dendron!) include PowerShell, Python, Sphinx, Linux, Kubernetes / Docker, and Amazon Web Services (AWS).
+I've been a systems engineer, DevOps engineer, and all-around automation toolmaker. I apply what I've learned to the world of documentation, where I'm passionate about making open source more accessible, creating technology to empower contributors, and making the [Docs as Code](https://www.writethedocs.org/guide/docs-as-code/) approach a smoother experience. Some technologies I enjoy working with include [Dendron](https://www.dendron.so/), PowerShell, Python, Sphinx, Linux, Kubernetes / Docker, and Amazon Web Services (AWS).
 
 [![ScriptAutomate's github stats](https://github-readme-stats.vercel.app/api?username=ScriptAutomate&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
         
