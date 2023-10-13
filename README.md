@@ -6,7 +6,8 @@ I've been a systems engineer, DevOps engineer, and all-around automation toolmak
 
 [![ScriptAutomate's github stats](https://github-readme-stats.vercel.app/api?username=ScriptAutomate&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
         
-## Find me around the web 🌎: <img align="left" width="150" height="150" src="https://github.com/ScriptAutomate/ScriptAutomate/blob/master/img/scriptautomate-octocat-rotating.gif?raw=true">
+## Find me around the web 🌎
+
 - Publishing articles on <a href="https://dev.to/scriptautomate">dev.to</a> and <a href="https://www.icanteven.io/">icanteven.io</a> :computer: :pencil:
 - Creating, maintaining, and contributing other code on <a href="https://gitlab.com/ScriptAutomate">GitLab</a> :space_invader:
 - Sharing updates on <a href="https://www.linkedin.com/in/derek-ardolf/">LinkedIn</a> 💼 and <a href="https://twitter.com/intent/follow?screen_name=ScriptAutomate"><img src="https://img.shields.io/twitter/follow/ScriptAutomate?style=social&logo=twitter" alt="follow on Twitter"></a>
